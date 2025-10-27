@@ -9,7 +9,7 @@
 
 ## Demo Aplikasi
 
-[https://github.com/user-attachments/assets/301436f3-6970-4e90-94fd-f5efd50f3037](https://github.com/user-attachments/assets/301436f3-6970-4e90-94fd-f5efd50f3037)
+[[https://github.com/user-attachments/assets/301436f3-6970-4e90-94fd-f5efd50f3037](https://github.com/user-attachments/assets/301436f3-6970-4e90-94fd-f5efd50f3037)](https://github.com/HammasHaryaSena/Tugas-5-Pertemuan-7/issues/1#issue-3557428485)
 
 ---
 
